@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Chinese Money Plant",
+      "image": "https://www.allaboutgardening.com/wp-content/uploads/2022/03/Potted-Pilea-Plant.jpg",
+      "price": "30.50",
+      "id": 8
+    },
+    {
+      "name": "String of Hearts",
+      "image": "https://cdn.mos.cms.futurecdn.net/KcryUujSwSq6UsfDBUJDok-1280-80.jpg.webp",
+      "price": "20.00",
+      "id": 9
+    },
+    {
+      "name": "Succulents",
+      "image": "https://cdn.mos.cms.futurecdn.net/7StyHG7zvW84uMj4ctSJ6Z-1280-80.jpg.webp",
+      "price": "40.00",
+      "id": 10
     }
   ]
 }
